@@ -21,7 +21,7 @@ Installing and setting up your app.
 
 1. clone this repository using `git clone `
 2. Open the folder from Eclipse/IntelliJ/VSCode
-3. Set up an apache sever release 9.0.0 only 
+3. Set up an apache sever release 9.0.0  family only 
 4. Open MySqlWorkbench and run the sql file
 5. Edit the hibernate.java file and input your root user password
 6. MAVEN clean and package the project 
